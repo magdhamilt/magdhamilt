@@ -6,5 +6,4 @@ My primarily interest is full-stack development and I'm currently working at [Ve
 
 Outside of work, I'm interested in literature and art. I also write and make tech-related content.
 
-Let's connect:
-@instagram
+Let's connect: [![Instagram](images/instagram.png)](https://www.instagram.com/mhamilton.py/)
