@@ -2,7 +2,7 @@ Hello, world!
 
 I'm Magda, a software engineer based in New York City.
 
-My primary interest is full-stack development and I'm currently working at [Velvet Disruption](https://velvetdisruption.com).
+My primary interest is full-stack development and I'm currently working at <a href="https://velvetdisruption.com" style="text-decoration: none; font-weight: bold; color: black;">Velvet Disruption</a>.
 
 Outside of work, I'm interested in literature and art. I also write and make tech-related content.
 
