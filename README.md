@@ -2,8 +2,11 @@ Hello, world!
 
 I'm Magda, a software engineer based in New York City.
 
-My primarily interest is full-stack development and I'm currently working at [Velvet Disruption](https://velvetdisruption.com).
+My primary interest is full-stack development and I'm currently working at **[Velvet Disruption](https://velvetdisruption.com)**.
 
 Outside of work, I'm interested in literature and art. I also write and make tech-related content.
 
-Let's connect: [![Instagram](images/instagram.png)](https://www.instagram.com/mhamilton.py/)
+Let's connect:
+
+[![Instagram](https://github.com/magdhamilt/magdhamilt/blob/master/images/instagram.svg)](https://www.instagram.com/mhamilton.py/)
+[![Instagram](https://github.com/magdhamilt/magdhamilt/blob/master/images/linkedin.svg)](https://www.linkedin.com/in/magdalenahamilton/)
