@@ -1,6 +1,6 @@
 Hello, world! 
 
-I'm Magda, a software engineer based in New York City.
+I'm [Magda](https://magdahamilton.dev/), a software engineer based in New York City.
 
 My primary interest is full-stack development and I'm currently working at **[Velvet Disruption](https://velvetdisruption.com)**.
 
